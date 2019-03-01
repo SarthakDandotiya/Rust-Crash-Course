@@ -13,6 +13,21 @@ Rust was the "most loved programming language" in the Stack Overflow Developer S
 ### To Run a .rs Program
 
 ```
-$ rustc FILENAME.rs
-$ ./FILENAME
+$ rustc FILE_NAME.rs
+$ ./FILE_NAME
 ```
+
+### Creating a New Project
+
+We are going to use **cargo** to create a new project.
+
+```
+$ cargo new PROJECT_NAME
+```
+
+**What's Cargo?**
+Cargo is a tool that Rustaceans use to help manage their Rust projects. Cargo is currently in a pre-1.0 state, and so it is still a work in progress. However, it is already good enough to use for many Rust projects, and so it is assumed that Rust projects will use Cargo from the beginning.
+
+Cargo manages three things: building our code, downloading the dependencies our code needs, and building those dependencies. At first, our program doesn’t have any dependencies, so we’ll only be using the first part of its functionality. Eventually, we’ll add more. Since we started off by using Cargo, it'll be easy to add later.
+
+Cargo to Rust is similar to what _pip_ is to _Python_ or what _npm_ is to _Node_.
