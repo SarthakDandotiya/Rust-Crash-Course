@@ -2,6 +2,8 @@
 
 A quick start for the Rust Language
 
+<!-- All credit goes to[video-tutorial](https://www.youtube.com/watch?v=KDn_j48yoAo&t=1265s) by @chawk -->
+
 ## About Rust
 
 Rust is a multi-paradigm systems programming language focused on safety, especially safe concurrency. Rust is syntactically similar to C++, but is designed to provide better memory safety while maintaining high performance.
@@ -15,7 +17,7 @@ Rust was the "most loved programming language" in the Stack Overflow Developer S
 The folders are named in an order and the files in there have comments to explain what's going on.
 
 This course considers that you already have some experience with programming in general and is going to help you get your feet wet with Rust.
-This is not meant to be your first attempt at programming as it assumes that you know whats going on in general.
+This is not meant to be your first attempt at programming as it assumes that you know whats going on in general although its very basic.
 
 ## To Run a .rs Program
 
