@@ -53,4 +53,8 @@ This is going to create a _target_ folder which is the actual output folder that
 
 Now go to the debug folder and run the executable file.
 
-Keep in mind that there are tools to do the above directly as well.
+To just check for the Output and not build the project everytime we just use...
+
+```
+$ cargo run
+```
