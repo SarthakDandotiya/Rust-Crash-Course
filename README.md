@@ -10,6 +10,13 @@ Rust was originally designed by Graydon Hoare at Mozilla Research, with contribu
 
 Rust was the "most loved programming language" in the Stack Overflow Developer Survey for 2016, 2017, and 2018.
 
+## Traversing through the Course
+
+The folders are named in an order and the files in there have comments to explain what's going on.
+
+This course considers that you already have some experience with programming in general and is going to help you get your feet wet with Rust.
+This is not meant to be your first attempt at programming as it assumes that you know whats going on in general.
+
 ## To Run a .rs Program
 
 ```
@@ -58,7 +65,3 @@ To just check for the Output and not build the project everytime we just use...
 ```
 $ cargo run
 ```
-
-## Traversing through the Course
-
-The folders are named in an order and the files in there have comments to explain what's going on.
