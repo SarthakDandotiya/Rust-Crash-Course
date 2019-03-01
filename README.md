@@ -70,4 +70,4 @@ $ cargo run
 
 I do not take credit for this course these are just the notes I took down while watching a tutorial.
 
-All credit goes to this [video-tutorial](https://youtu.be/KDn_j48yoAo) by @chawk
+All credit goes to this [video-tutorial](https://youtu.be/KDn_j48yoAo) by Chris Hawkes (@chawk).
