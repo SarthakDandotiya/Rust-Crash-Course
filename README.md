@@ -2,8 +2,6 @@
 
 A quick start for the Rust Language
 
-<!-- All credit goes to[video-tutorial](https://www.youtube.com/watch?v=KDn_j48yoAo&t=1265s) by @chawk -->
-
 ## About Rust
 
 Rust is a multi-paradigm systems programming language focused on safety, especially safe concurrency. Rust is syntactically similar to C++, but is designed to provide better memory safety while maintaining high performance.
@@ -67,3 +65,9 @@ To just check for the Output and not build the project everytime we just use...
 ```
 $ cargo run
 ```
+
+## Note
+
+I do not take credit for this course these are just the notes I took down while watching a tutorial.
+
+All credit goes to this [video-tutorial](https://www.youtube.com/watch?v=KDn_j48yoAo&t=1265s) by @chawk
