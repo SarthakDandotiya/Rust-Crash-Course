@@ -58,3 +58,7 @@ To just check for the Output and not build the project everytime we just use...
 ```
 $ cargo run
 ```
+
+## Traversing through the Course
+
+The folders are named in an order and the files in there have comments to explain what's going on.
