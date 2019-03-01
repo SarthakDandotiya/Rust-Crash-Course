@@ -1,10 +1,12 @@
 # Rust-Cram-Course
 
 A quick start for the Rust Language
+![Rust](image.png)
+Format: ![Banner](https://www.rust-lang.org/)
 
 ## About Rust
 
-Rust is a multi-paradigm systems programming language focused on safety, especially safe concurrency. Rust is syntactically similar to C++, but is designed to provide better memory safety while maintaining high performance.
+[Rust](https://www.rust-lang.org/) is a multi-paradigm systems programming language focused on safety, especially safe concurrency. Rust is syntactically similar to C++, but is designed to provide better memory safety while maintaining high performance.
 
 Rust was originally designed by Graydon Hoare at Mozilla Research, with contributions from Dave Herman, Brendan Eich, and others.
 
