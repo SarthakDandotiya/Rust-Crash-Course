@@ -1,8 +1,8 @@
 # Rust-Cram-Course
 
 A quick start for the Rust Language
+
 ![Rust](image.png)
-Format: ![Banner](https://www.rust-lang.org/)
 
 ## About Rust
 
