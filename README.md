@@ -1,4 +1,4 @@
-# Rust-Cram-Course
+# Rust-Crash-Course
 
 A quick start for the Rust Language
 
