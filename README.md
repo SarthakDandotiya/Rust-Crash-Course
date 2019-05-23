@@ -68,8 +68,6 @@ To just check for the Output and not build the project everytime we just use...
 $ cargo run
 ```
 
-## Note
+****
 
-I do not take credit for this course these are just the notes I took down while watching a tutorial.
-
-All credit goes to this [video-tutorial](https://youtu.be/KDn_j48yoAo) by Chris Hawkes (@chawk).
+[Credits](https://youtu.be/KDn_j48yoAo)(@chawk)
